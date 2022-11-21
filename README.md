@@ -48,3 +48,15 @@ Phishing is a type of cybersecurity attack during which malicious actors send me
 - [DATA FLOW DAIGRAM & USER STORIES](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Data%20Flow%20Diagrams%20and%20User%20Stories%20.pdf)✅
 - [TECHNOLOGY STACK](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)✅
  ### PROJECT PLANNING 
+- [PREPARE MILESTONE & ACTIVITY LIST](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Prepare%20Milestone%20%26%20Activity%20List.pdf)✅
+- [SPRINT DELIVERY PLAN](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint_Delivery_Plan.pdf)✅
+
+## PROJECT DEVELOPMENT PHASE
+
+  ###[SPRINT 1](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/tree/main/Project%20Development%20Phase/Sprint%201)
+  ###[SPRINT 2](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/tree/main/Project%20Development%20Phase/Sprint%202)
+  ###[SPRINT 3](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/tree/main/Project%20Development%20Phase/Sprint%203)
+  ###[SPRINT 4](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/tree/main/Project%20Development%20Phase/Sprint%204)
+## FINAL REPORT
+  ### [Report](https://github.com/IBM-EPBL/IBM-Project-489-1658303709/blob/main/Final_Report.pdf)
+   
